@@ -9,3 +9,5 @@ print('''\n4 - Avaliações técnico formativas buscam medir aprendizado técnic
 para mudar de rota com base nas informações coletadas. Muito mais que comprovar o conhecimento, é entender a curva de aprendizado \n''')
 
 print ('5 - A avaliação da técnica somativa serve para verificar, ao final de um ciclo de aprendizagem, o quanto os participantes dominaram os conhecimentos e habilidades trabalhados.')
+
+print ('6 - As atividades do grupo promovem reflexão e engajamento, incentivando o pensamento crítico e coletando feedback para aprimorar a experiência das pessoas participantes')
