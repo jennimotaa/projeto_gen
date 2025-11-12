@@ -16,3 +16,6 @@ para mudar de rota com base nas informações coletadas. Muito mais que comprova
 print ('5 - A avaliação da técnica somativa serve para verificar, ao final de um ciclo de aprendizagem, o quanto os participantes dominaram os conhecimentos e habilidades trabalhados.')
 
 print ('6 - As atividades do grupo promovem reflexão e engajamento, incentivando o pensamento crítico e coletando feedback para aprimorar a experiência das pessoas participantes')
+
+# Adicionando Nova Frase Complementar
+print("3 - Tem a avaliação somativa de BSMs que é realizada ao final do programa para avaliar a compreensão geral e a aplicação dos BSMs adquiridos pelas pessoas participantes.")
